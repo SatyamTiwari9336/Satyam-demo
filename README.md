@@ -1,4 +1,4 @@
 # Satyam-demo
 this is a demo repo
 <br>
-author-Satyam
+author-Satyam Tiwari
